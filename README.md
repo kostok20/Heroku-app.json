@@ -8,7 +8,7 @@ A Telegram bot for making Heroku app.json by [@AbirHasan2005](https://t.me/AbirH
 ### Deploy to Heroku
 Click Below Button to Deploy to Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Heroku-app.json)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kostok20/Heroku-app.json)
 
 ### Deploy Locally
 ```shell
