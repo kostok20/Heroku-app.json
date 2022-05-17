@@ -11,21 +11,21 @@
         "maker",
         "generator"
     ],
-    "repository": "https://github.com/AbirHasan2005/Heroku-app.json",
+    "repository": "https://github.com/kostok20/Heroku-app.json",
     "website": "https://github.com/AbirHasan2005/Heroku-app.json",
     "success_url": "https://t.me/HerokuAppJson_Bot",
     "env": {
         "API_ID": {
-            "description": "Get from https://t.me/TeleORG_Bot"
+            "description": "1320790"
         },
         "API_HASH": {
-            "description": "Get from https://t.me/TeleORG_Bot"
+            "description": "e280d12162e1bb11633da9d02df1b50e"
         },
         "BOT_TOKEN": {
-            "description": "Get from https://t.me/BotFather"
+            "description": "5340802171:AAFdnL48RLJAQIb8bMYjZx3_0UiCs_HEbK8"
         },
         "SESSION_NAME": {
-            "description": "Any Session Name of Bot",
+            "description": "BAAtZipf4Zc-UNoahN3QOb-7mRwAcbO_m1yrc68bj962Ia5v-ns8BV8fL_qSU-bMwl5BnNE3hGMKLwXP-RRMhgbFVtxrhNiuvyWujeFMfo0g3_k-HPYJwhi5GN9uKI3NGi-CdP0IIIfSsy8zFCgCiHhkOfV5wmoJQA3U_edl7ZOSCDjuVFJM4KdxfqktlkFck14TpW20i5crfvMxxPalZOyVTk-xHZAGExQYJO8T2W32Xypx_jj2VUoG1DpsdiXuJ-exiC_JHvkSNSsgftG3kWT-o1jKPSycctADWm_eBi47arY0zJFzFjU5Qp0DdgXcHoqdRbf5ZimvJMjR58K-rQvqMT4cuwA",
             "required": "False",
             "value": "Heroku-Bot"
         }
